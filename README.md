@@ -26,9 +26,6 @@ Passionate about ethical hacking, cybersecurity, and open-source technologies. C
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
 </p>
 
 ### 🛠️ **Tools & Frameworks**
